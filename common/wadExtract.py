@@ -71,3 +71,5 @@ else:
 		ofile = open('sf_' + str(n+1) + '.bin', 'wb')
 		ofile.write(get_subfile(n))
 		ofile.close()
+
+print('Extraction completed.')

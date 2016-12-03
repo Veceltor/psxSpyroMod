@@ -209,3 +209,5 @@ ofile = open(args.output, 'w', encoding = 'utf-8')
 for line in texts:
 	ofile.write(line + '\n')
 ofile.close()
+
+print('Text extraction completed.')
