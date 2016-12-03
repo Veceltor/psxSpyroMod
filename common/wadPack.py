@@ -30,7 +30,7 @@ wad = open(args.output, 'wb')
 offset = 2048
 counter0 = 0
 for x in range(len(filelist)):
-    subfile = open(workfolder + '/' + fpath + '/' + 'sf_' + str(x+1) + '.bin', 'rb')
+    subfile = open(fpath + '/' + 'sf_' + str(x+1) + '.bin', 'rb')
 
     bytes0 = subfile.read()
     sfsize = len(bytes0)

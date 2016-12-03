@@ -13,13 +13,13 @@ import argparse
 import struct
 import string
 
-jumps = 8 ## 8/12
-offset = 44 ## 44/48
+jumps = 12 ## 8/12
+offset = 48 ## 44/48
 tenc = 'cp1251' ##cp932 or 1251
 
-parser = argparse.ArgumentParser(description='Text extractor for Spyro 2.')
+parser = argparse.ArgumentParser(description='Text extractor for Spyro 3.')
 parser.add_argument('filepath', type=str, help = 'Path to level file.')
-parser.add_argument('--output', type=str, default = 's2_text.txt', help = 'Output file name.')
+parser.add_argument('--output', type=str, default = 's3_text.txt', help = 'Output file name.')
 
 
 args = parser.parse_args()
@@ -42,6 +42,17 @@ def getSubfileInfo(filepath, subfile):
 	ifile.close()
 
 	return info_list
+
+def getSubfilesCount(filepath):
+	sfile = 1
+	while sfile <= 256:
+		tmpinfo = getSubfileInfo(filepath, sfile)
+		if tmpinfo[0] == 0:
+			break
+		else:
+			sfile += 1
+
+	return sfile-1
 
 def jumper(filepath, start, jumpcount):
 	jumpbuf = 0
@@ -201,11 +212,18 @@ def getTexts(filepath, subfile):
 	return txt_list
 
 fpath = args.filepath
-texts = getTexts(fpath, 4)
+sfcount = getSubfilesCount(fpath)
 
 ofile = open(args.output, 'w', encoding = 'utf-8')
-for line in texts:
-	ofile.write(line + '\n')
+cur_sf = 4
+
+while cur_sf <= sfcount:
+	texts = getTexts(fpath, cur_sf)
+	for line in texts:
+		ofile.write(line + '\n')
+	ofile.write('\n\n')
+	cur_sf += 2	
+
 ofile.close()
 
 print('Text extraction completed.')
