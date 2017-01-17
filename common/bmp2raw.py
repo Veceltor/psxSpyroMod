@@ -61,23 +61,6 @@ def compareToPalette(color, palette):
 	return retNum
 
 ofile = open(args.output, 'wb')
-colorMode = args.colormode
-
-if args.colormode <= 8:
-	ltmp = loadBmp(args.palette)
-
-	if ((ltmp[1])[1] == 1):
-		if (ltmp[1])[0] == 16:
-			colorMode = 4
-		elif (ltmp[1])[0] == 256:
-			colorMode = 8
-		else:
-			print('Wrong palette file.')
-			quit()
-	else:
-		print('Wrong palette file.')
-		quit()
-
 outputBytes = rawTobgr555(loadBmp(fpath)[0])
 ofile.write(outputBytes)
 ofile.close()
