@@ -11,65 +11,41 @@
 
 
 import argparse
-import struct
 import os
+import struct
 
 parser = argparse.ArgumentParser(description='Unpacker for WAD.WAD archive.')
 parser.add_argument('filepath', type=str, help = 'Path to WAD.WAD.')
 parser.add_argument('subfile', type=int, help = 'Subfile number. 0 - extract all subfiles.')
-##parser.add_argument('--part', type=int, default=0, help = 'Read header of subfile and extract only n-th part. 0 (default) - extract whole file instead.')
-
 args = parser.parse_args()
 
-def get_subfiles_count():
-	path = args.filepath
+def extractSubfile(sfNum):
+	ofile = open('sf_' + str(args.subfile) + '.bin', 'wb')
+	sfAddr = (subfiles[(sfNum-1)*2])
+	sfSize = (subfiles[(sfNum-1)*2+1])
+	ifile.seek(sfAddr)
+	ofile.write(ifile.read(sfSize))
+	ofile.close()
 
-	f = open(path, 'rb')
-	header = f.read(2048)
 
-	addr = 0
-	sfsize = 0
-	lastsf = 0
-	for sf in range(256):
-		addr = struct.unpack('<I', header[0+sf*8:4+sf*8])[0]
-		sfsize = struct.unpack('<I', header[4+sf*8:8+sf*8])[0]
-		if sfsize > 0:
-			lastsf = sf+1
+ifile = open(args.filepath, 'rb')
+headerFmt = '<' + 'I'*512
+subfiles = struct.unpack(headerFmt, ifile.read(struct.calcsize(headerFmt)))
 
-	return lastsf
+sfCount = 0
 
-def get_subfile(sf_num):
-	sf = sf_num
-	##ssf = args.part
-	ssf = 0
-	path = args.filepath
-
-	f = open(path, 'rb')
-
-	header = f.read(2048)
-	addr = struct.unpack('<I', header[0+sf*8:4+sf*8])[0]
-	sfsize = struct.unpack('<I', header[4+sf*8:8+sf*8])[0]
-
-	f.seek(addr)
-	subfile = f.read(sfsize)
-
-	if ssf == 0:
-		return subfile
-	
-	elif ssf > 0:
-		return subfile
-	
+for x in range(int(len(subfiles)/2)):
+	if subfiles[len(subfiles)-x*2-1] == 0:
+		sfCount = int(len(subfiles)/2)-x-1
 	else:
-		print('Wrong part number: ' + str(ssf))
+		break
 
 if args.subfile > 0:
-	ofile = open('sf_' + str(args.subfile) + '.bin', 'wb')
-	ofile.write(get_subfile(args.subfile-1))
-	ofile.close()
+	extractSubfile(args.subfile)
 else:
-	for n in range(get_subfiles_count()):
-		ofile = open('sf_' + str(n+1) + '.bin', 'wb')
-		ofile.write(get_subfile(n))
-		ofile.close()
+	for n in range(sfCount):
+		extractSubfile(n+1)
+
+ifile.close()
 
 print('Extraction completed.')
