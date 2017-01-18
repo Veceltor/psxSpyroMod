@@ -20,7 +20,7 @@ parser.add_argument('subfile', type=int, help = 'Subfile number. 0 - extract all
 args = parser.parse_args()
 
 def extractSubfile(sfNum):
-	ofile = open('sf_' + str(args.subfile) + '.bin', 'wb')
+	ofile = open('sf_' + str(sfNum) + '.bin', 'wb')
 	sfAddr = (subfiles[(sfNum-1)*2])
 	sfSize = (subfiles[(sfNum-1)*2+1])
 	ifile.seek(sfAddr)
@@ -31,14 +31,11 @@ def extractSubfile(sfNum):
 ifile = open(args.filepath, 'rb')
 headerFmt = '<' + 'I'*512
 subfiles = struct.unpack(headerFmt, ifile.read(struct.calcsize(headerFmt)))
-
 sfCount = 0
 
 for x in range(int(len(subfiles)/2)):
-	if subfiles[len(subfiles)-x*2-1] == 0:
-		sfCount = int(len(subfiles)/2)-x-1
-	else:
-		break
+	if not subfiles[x*2+1] == 0:
+		sfCount = x+1
 
 if args.subfile > 0:
 	extractSubfile(args.subfile)
