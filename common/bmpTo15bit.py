@@ -13,9 +13,6 @@ parser = argparse.ArgumentParser(description='BMP to RAW (bgr 15bpp) converter')
 parser.add_argument('filepath', type=str, help = 'Path to BMP image file.')
 parser.add_argument('--output', type=str, default = 'image.raw', help = 'Output file name.')
 
-args = parser.parse_args()
-fpath = args.filepath
-
 def loadBmp(filepath):
 	f = open(filepath, 'rb')
 	f.seek(10)
@@ -32,37 +29,37 @@ def loadBmp(filepath):
 			imgData.append(bmpData[(imgHeight-h-1)*(3*imgWidth)+w])
 	f.close()
 	return (imgData, imgSize)
-			
-def rawTobgr555(imgData):
-	outputBytes = bytearray()	
-		
-	for n in range(int(len(imgData)/3)):
-		#gbbbbbgg gggrrrrr
-		b = int(imgData[n*3]/8)
-		g = int(imgData[n*3+1]/4)
-		r = int(imgData[n*3+2]/8)
-		bitStr = str(bin(b)[2:len(bin(b))]).zfill(5) + str(bin(g)[2:len(bin(g))]).zfill(6) + str(bin(r)[2:len(bin(r))]).zfill(5)
-		color = int(bitStr[10])*32768 + int(bitStr[0])*16384 + int(bitStr[1])*8192 + int(bitStr[2])*4096 + int(bitStr[3])*2048 + int(bitStr[4])*1024 + int(bitStr[5])*512 + int(bitStr[6])*256 + int(bitStr[7])*128 + int(bitStr[8])*64 + int(bitStr[9])*32 + int(bitStr[11])*16 + int(bitStr[12])*8 + int(bitStr[13])*4 + int(bitStr[14])*2 + int(bitStr[15])
-		try:
-			outputBytes.append(struct.pack('<H', color)[0])
-			outputBytes.append(struct.pack('<H', color)[1])
-		except struct.error:
-			print(color)
-			quit()
 
-	return outputBytes
+def rawTo555(imgData):
+	retData = bytearray()
+	for x in range(int(len(imgData)/3)):
+		b = imgData[x*3]
+		g = imgData[x*3+1]
+		r = imgData[x*3+2]
+		binStr = '0' + makeBinStr(b,1)[0:5] + makeBinStr(g,1)[0:5] + makeBinStr(r,1)[0:5]
+		retData.append(makeByteFromStr(binStr[8:16]))
+		retData.append(makeByteFromStr(binStr[0:8]))
+	return retData
 
-def compareToPalette(color, palette):
-	retNum = 0
-	for n in range(int(len(palette)/3)):
-		if color == (palette[n*3], palette[n*3+1], palette[n*3+2]):
-			retNum = n
-			break
-	return retNum
+def makeBinStr(intValue, bytesCount):
+	retStr = (str(bin(intValue))[2:len(str(bin(intValue)))]).zfill(bytesCount*8)
+	return retStr
 
+def makeByteFromStr(inStr):
+	retVal = -1
+	if not len(inStr) == 8:
+		print('Wrong input length')
+	else:
+		retVal = int(inStr[0])*128 + int(inStr[1])*64 + int(inStr[2])*32 + int(inStr[3])*16 + int(inStr[4])*8 + int(inStr[5])*4 + int(inStr[6])*2 + int(inStr[7])
+	return retVal
+
+args = parser.parse_args()
+fpath = args.filepath
+
+rawData = loadBmp(fpath)[0]
+rawData = rawTo555(rawData)
 ofile = open(args.output, 'wb')
-outputBytes = rawTobgr555(loadBmp(fpath)[0])
-ofile.write(outputBytes)
+ofile.write(rawData)
 ofile.close()
 
-print('All done.')
+print('File converted.')

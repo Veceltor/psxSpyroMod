@@ -65,16 +65,28 @@ def bgr555toRaw(imgData):
 		
 		color = struct.unpack('<H', imgData[n*2:n*2+2])[0]		
 		
-		binStr = (str(bin(color))[2:len(str(bin(color)))]).zfill(16)
-		b = int(binStr[1])*16 + int(binStr[2])*8 + int(binStr[3])*4 + int(binStr[4])*2 + int(binStr[5])
-		g = int(binStr[6])*32 + int(binStr[7])*16 + int(binStr[8])*8 + int(binStr[9])*4 + int(binStr[10])*2 + int(binStr[0])
-		r = int(binStr[11])*16 + int(binStr[12])*8 + int(binStr[13])*4 + int(binStr[14])*2 + int(binStr[15])
+		binStr = makeBinStr(color, 2)
+		b = binStr[1] + binStr[2] + binStr[3] + binStr[4] + binStr[5] + '000'
+		g = binStr[6] + binStr[7] + binStr[8] + binStr[9] + binStr[10] + '000'
+		r = binStr[11] + binStr[12] + binStr[13] + binStr[14] + binStr[15] + '000'
 		
-		outputBytes.append(b*8) 
-		outputBytes.append(g*4)
-		outputBytes.append(r*8)
+		outputBytes.append(makeByteFromStr(b)) 
+		outputBytes.append(makeByteFromStr(g))
+		outputBytes.append(makeByteFromStr(r))
 
 	return outputBytes
+
+def makeBinStr(intValue, bytesCount):
+	retStr = (str(bin(intValue))[2:len(str(bin(intValue)))]).zfill(bytesCount*8)
+	return retStr
+
+def makeByteFromStr(inStr):
+	retVal = -1
+	if not len(inStr) == 8:
+		print('Wrong input length')
+	else:
+		retVal = int(inStr[0])*128 + int(inStr[1])*64 + int(inStr[2])*32 + int(inStr[3])*16 + int(inStr[4])*8 + int(inStr[5])*4 + int(inStr[6])*2 + int(inStr[7])
+	return retVal
 
 args = parser.parse_args()
 fpath = args.filepath
