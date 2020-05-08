@@ -1,0 +1,54 @@
+59392
+240
+2
+Zoe
+Зоя
+Remember, to get your longest glide press the < button at the very top of your jump, and use the } button to hover at the end of your jump.
+Запомни, чтобы пролететь как можно дальше, нажми < на самом пике прыжка, а потом {, чтобы притормозить перед приземлением.
+60752
+256
+2
+Zoe
+Зоя
+The metal armor those enemies are wearing protects them from your dragon flame. If you hold down the > button, you can defeat them with your charge attack.
+Броня на вон тех злодеях защищает их от драконьего огня. Если нажмешь <, то легко справишься с ними ударом рогами.
+62880
+536
+3
+Nimbus
+Нимбус
+The rhynocs have shut down our cloud generator and I'll never see a rainbow again.
+Носороги заткнули наш генератор облаков... эх, мне уже не видеть радуги.
+You'd think the Sorceress would want more rain, after what the sun has done to her skin.
+Да той колдунье конечно хочется дождя - посмотри, что с ней солнце сотворило.
+63416
+412
+2
+Cirrus
+Циррус
+If my wings were big and strong like yours, I could easily glide across here. &[Press < button to jump. &[Then press < button in midair to glide.
+Если бы мои крылья были такими же большими, я легко бы перебрался на ту сторону. &[Нажми <, чтобы прыгнуть &[Потом < еще раз, чтобы лететь
+63956
+752
+3
+Fluffy
+Флаффи
+Oh, you activated the bellows? Maybe I can get the cloud generator working again...
+О, ты включил меха? Может, получится раскачать этот генератор...
+The rhynocs must have been using this thing to clog up the cloud generator.
+Носороги, должно быть, этой штукой его заткнули.
+65192
+2392
+6
+Moneybags
+Толстосум
+Well, well, if it isn't my favorite dragon! The Sorceress has put me in charge of guarding these bellows. However, I suppose I might look the other way if I was distracted by counting gems. &Pay ^^^ gems to activate bellows? &Sure, whatever. &No way, you doofus.
+Так-так, а вот и мой любимец! Колдунья поставила меня охранять эти меха. Вообще-то я бы мог и закрыть глаза на это, скажем, если б меня ослепило сияние самоцветов. &Заплатить ^^^ этому подлецу? &Да, подумаешь. &Обойдётся.
+Oooooh yes... precious, precious gems... Well then, Spyro, you may now use the bellows any time you wish. Best of luck on your little egg hunt.
+О-о да... моя прелесссть... Ну так можешь идти, удачи и всё такое.
+What? NO? What else are you going to do with all those gems? Buy flying lessons? (Heh heh) that was a good one...
+Чего? НЕТ? И на что ты их будешь тратить? На лётную школу? (хе-хе) как я его...
+Sorry, Spyro, it is my sworn duty to make certain no one crosses these bellows. And you know perfectly well that nothing could ever sway me from obeying my sworn duty... that is, ahem, until you have a few more gems. &[Activating bellows costs ^^^ gems.
+Извини, Спайро, это мой долг - охранять эти меха. А ты знаешь, что ничто не заставит меня отказаться от долга! ...ну кроме денег конечно. &[Надо ^^^ камней.
+Heh heh... I haven't made such easy money since the Sorceress bought that mayonaisse for sunscreen.
+Хе-хе... Так легко я не зарабатывал ещё с тех пор, как продал Колдунье тот майонез против загара.

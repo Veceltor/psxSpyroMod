@@ -1,0 +1,47 @@
+70184
+184
+2
+я
+[SKIP]
+Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+Внимание, дракон: хочешь увидеть своего плешивого дружка ещё раз, катись отсюда!\  -Колдунья
+70480
+680
+6
+Hunter
+Хантер
+Whoooa! A bunch of sheep in flying saucers just came out of nowhere and started blasting up the race course!
+Оп-па... Откуда-то взялась куча овец в летающих тарелках, которые перевернули весь трэк вверх дном!
+Looks like I'll have to hop in my plane and teach 'em some manners! &Shoot down sheep UFOs? &Go for it! &Looks too dangerous...
+Похоже, придется мне сесть в самолет и поучить их хорошим манерам! &Посбивать НЛО? &Давай, врежь им! &Пора смотаться отсюда...
+Look out sheep, here I come! &[{ button to fire. &[< or > button for turbo.
+Па-аберегись, я вооружен и опасен! &[Огонь - { &[< или > - форсаж.
+Yeah, when sheep go hi-tech, you gotta watch out!
+Да, становится жарковато, когда повсюду НЛО! 
+Wooohooooo! Check it out, the squad leader had abducted this egg!
+Я-хуу! Глянь-ка, их лидер стащил драконье яйцо!
+71228
+1744
+11
+Sparx
+Спарк
+Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Butterflies &Exit level
+Какое испытание выберешь? &Выбирай: &Посбивать все мишени &Гонка с бабочками &Уйти с уровня
+Here's a hint. Try completing each challenge in order. Start with the rings, then get all the dandelions, the spiders, and save the butterflies for last. It's not the fastest way, but it is the easiest.
+Подскажу - попробуй собирать цели по порядку. Начни с колец, потом сдуй одуванчики, потом поджарь пауков и в последнюю очередь - сбей бабочек. Это не самый быстрый путь, но самый простой.
+Ok, you're going to race the butterflies. You have to fly through ALL of the green checkpoint rings in order. The red dots will lead the way. &[Fly through all green rings &[Use the red dots to guide you.
+Хорошо, иди на гонку. Тебе нужно пролететь через ВСЕ зеленые кольца по порядку. Красные точки подскажут дорогу. &[Пролети через все зеленые кольца &[Следи за красными точками.
+Alright, we'll try again later.
+Ладно, попробуем позже.
+The insects were so impressed with your flying skills they awarded you this egg.
+Местные насекомые так впечатлились, что дали тебе в награду это яйцо.
+Wow! You won first prize.
+Ого! Ты выиграл гонку.
+Now that you've completed the challenge, you could go for your best time. Try cutting corners and charging for extra speed. Also, remember that completing the challenge in order may not be the fastest way, try experimenting.
+Теперь, когда испытание закончено, можешь попробовать поставить новыый рекорд. Попробуй срезать углы и бежать, чтобы собрать всё побыстрее. И еще, собирать всё по порядку не обязательно быстрее всего, экспериментируй.
+You won't win the race without using the blue turbo stars. Try to use as many as possible, even if it means leaving the red dots, but remember to fly though the rings or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings
+Ты не выиграешь гонку без синих звездочек. Пробуй собрать как можно больше, даже если они не по пути, но не забывай о кольцах. &[Собирай синие звездочки. &[Пролети через все кольца
+Hey Spyro, you don't have to follow the red dots exactly... you can take short cuts between rings. Heres an extra hint, if you fly lower you'll get a little more speed. &[Cut corners between the green rings. &[Flying lower gives you extra speed.
+Спайро, не нужно лететь точно по красным точкам... можно и срезать углы. Попробуй лететь ниже, чтобы набрать скорость. &[Срезай углы. &[Чем ниже летишь, тем больше скорость.
+Hi Spyro! There are 2 flying challenges available here in Mushroom Speedway. You can either try Time Attack or Race the Butterflies.
+Спайро, здесь в Грибном Полете есть два испытания. Можешь попробовать посбивать все мишени или погоняться с бабочками.

@@ -1,0 +1,62 @@
+Nan
+Нан
+Jenny
+Дженн
+Ruby
+Руби
+jump:
+прыжок:
+<
+<
+air hop:
+толчок:
+jump + <
+прыжок + <
+double-jump:
+двойной прыжок:
+jump, land + <
+< после прыжка
+kick:
+удар:
+{ or >
+{ или >
+stomp:
+давить:
+jump + }
+прыжок + }
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1

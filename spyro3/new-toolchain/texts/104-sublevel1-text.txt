@@ -1,0 +1,22 @@
+22256
+220
+2
+Sgt. Byrd
+Срж. Бурд
+Hello Spyro, I'm just off to the Tiki Lodge for some R and R.
+Здравствуй. Я вот собрался в Ложу Тики на небольшой отгул.
+24064
+648
+6
+Shale
+Шлак
+I'm playing a game of hide and seek with my friends. If I can't find where they've hidden their heads they won't let me join the Tiki Lodge. Help me put them back together and I'll make you an honorary member.
+Я играю в прятки с друзьями. Если я не найду их головы, то мне не стать членом Ложи. Помоги собрать их, и я сделаю тебя почётным членом.
+When you find a head, land on top of it to pick it up. Then fly it over to an idol body to put them back together.
+Как найдёшь голову, сядь на неё, чтобы подобрать. Потом донеси её до тела и поставь на место. 
+Take this egg as a sign of your honorary membership in the lodge.
+Возьми яйцо как символ почётного членства.
+When you've picked up a tiki head, fly over to any body and use the > button to drop the tiki head.
+Когда подберешь голову, принеси её к любому телу и нажми >, чтобы сбросить.
+Well that's never happened before. I hope it's not a bad omen.
+Такого раньше не бывало. Надеюсь, это не дурной знак.

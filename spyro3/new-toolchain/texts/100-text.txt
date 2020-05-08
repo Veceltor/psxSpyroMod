@@ -1,0 +1,73 @@
+25688
+180
+2
+Zoe
+Зоя
+This rhynoc is too big to charge. You'll have to flame him using the { button.
+Большого носорога с ног не собъёшь. Лучше подожги его кнопкой {.
+26692
+256
+3
+Zoe
+Зоя
+Hi Spyro! Each time a fairy zaps you, like this...
+Привет, Спайро! Когда я делаю вот так...
+That means your progress is saved. If you get into trouble you'll return to the last place you got zapped.
+...это означает, что твои достижения сохранены. Если попадёшь в беду, то вернёшься обратно на это место.
+31220
+412
+5
+Councillor George
+Советник Джордж
+Oh my! Oh my! Can you help us? Hordes of ferocious rhynocs have overrun our town and kidnapped the mayor.
+Кошмар! Трагедия! Помоги нам! Орды злобных носорогов заполонили наш город и похитили мэра.
+Are you a dragon? I never believed you really existed.
+Ты - дракон? Вот уж не думал, что вы настоящие.
+Would you like a chicken sandwich? They're very good.
+Хочешь сэндвич с курицей? Пальчики оближешь.
+Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.
+Эти вредные носороги опять вернулись, но я уверен, ты их скоро прогонишь.
+32488
+372
+4
+Citizen Paulus
+Житель Павл
+Let me catch my breath and I'll kick that other guy's butt.
+Сейчас, отдышусь и побью этого бедолагу.
+We showed those two bullies. If they hadn't outnumbered me two to one, I'd have finished them off ages ago.
+Мы показали этим задирам, где раки зимуют! Если бы они оба на меня не навалились, я б давно разобрался сам.
+Have you seen any giant chickens around here?
+Гигантских кур ты тут не видел?
+32860
+328
+3
+Mayor Leo
+Мэр Лео
+Thank you for rescuing my town. As mayor I award you with one of our famous giant chicken eggs.
+Спасибо за спасение моего города. Как мэр, я хочу наградить тебя яйцом наших знаменитых кур.
+I'm sorry, that was the ugliest chicken I've ever seen.
+Извини, на мой взгляд, это был гадкий птенчик.
+33188
+364
+5
+Citizen Horace
+Житель Гораций
+Whoo I'm dizzy.
+Все кружится...
+Thanks for the help, but I think I would have worn him down in a minute.
+Спасибо за помощь, но я бы с ним и сам справился.
+Have you seen any of our giant chickens? The rhynocs have been trying to eat them all.
+Не видел ни одной гигантской курицы? Носорогам они очень по вкусу...
+Look, a chicken turned up. I hope it's not the only one left.
+Смотри-ка, курица. Надеюсь, не последняя.
+34352
+2512
+4
+я
+[SKIP]
+To Whom it May Concern: Sheila the Kangaroo is currently otherwise detained -- by me. Please return in a few years.\      -The Sorceress
+Кому Надо: Кенгуру Шила задержана мной. Возвращайтесь через несколько лет.\    -Колдунья
+Spyro, thanks for dropping by, but I'm currently busy in my home world. Come visit me there.\          -Sheila
+Спайро, спасибо что пришёл, но я сейчас занята своим миром. Приходи проведать.\    -Шила
+Come on in!\     -Sheila
+Заходи!\    -Шила

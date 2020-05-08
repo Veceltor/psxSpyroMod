@@ -1,0 +1,9 @@
+21272
+600
+3
+Stratus
+Стратус
+We usually wake up our rain cloud at the crack of dawn, but these mischievous spirits are stopping our bells from ringing. &[Use the superfly powerup to flame the spirits in the belltowers.
+Мы обычно будим дождевое облачко не рассвете, но всякие там барабашки заглушают наши колокола. &[Прогони барабашек с помощью усилителя полёта.
+Do you want this doodad? It fell out of the belfry.
+Тебе нужна эта штучка? Выпала из колокольни...

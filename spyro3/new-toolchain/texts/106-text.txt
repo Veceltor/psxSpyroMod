@@ -1,0 +1,64 @@
+58164
+264
+2
+Zoe
+Зоя
+You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance.
+Ты можешь остановиться в полете, чтобы долететь чуть дальше. Просто нажми { в конце полёта. &[Нажми { в конце полета, чтобы пролететь дальше.
+60012
+280
+2
+Zoe
+Зоя
+If you want a quick summary of your progress in a world, you can press the @4SELECT@0 button to open the Atlas page for the world you are in. &[Press @0SELECT@4 button to view Atlas.
+Если хочешь узнать что ты ещё не собрал, нажми кнопку @4селект@0, чтобы открыть Атлас. &[Нажми @0селект@4, чтобы посмотреть Атлас.
+66680
+492
+3
+Sebastian the Seal
+Тюлень Себастиан
+While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.
+Пока меня не было, мои друзья взяли покататься подлодку носорогов... а потом разбили её о большую груду камней. Носороги юмора не поняли и забросили моих друзей вон в ту тюрьму.
+The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down. &[Use charge to smash boards.
+Носороги заколотили множество дверей, но я думаю, тебе хватит сил чтобы разбить доски. &[Бей рогами по доскам.
+67364
+404
+3
+Stanley the Seal
+Тюлень Стэнли
+My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends...
+Мой план сработал! Этот остолоп обронил ключ, пока мутузил меня. Теперь я могу открыть решетку...
+Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...
+О, я почти забыл... я нашёл яйцо в обедах одного носорога...
+67828
+288
+4
+я
+[SKIP]
+Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available... EVER!\      -The Sorceress
+Дорогой Дракон: если ты ищешь кенгуру, попробуй поискать в другом месте. \    -Колдунья
+I'm still back in my home world with my goat friends. Come on over if you like.\          -Sheila
+Я всё еще помогаю козлам в моём мире. Приходи проведать, если хочешь.\    -Шила
+Come on in!\     -Sheila
+Заходи!\    -Шила
+68216
+284
+2
+Sigmund the Seal
+Тюлень Сигмунд
+I can't wait until the rhynocs build a new submarine! Next time it's my turn to drive!
+Жду не дождусь, когда носороги построят ещё одну подлодку! Теперь моя очередь рулить!
+68500
+284
+2
+Sal the Seal
+Тюлень Сэл
+Driving that submarine was a blast! Next time we're going to borrow the rhynocs' speed boat!
+Плыть на той подлодке было обалденно! В следующий раз угоним скоростной катер!
+68784
+308
+2
+Stu the Seal
+Тюлень Стю
+We never would have crashed that submarine if Sal hadn't tried that hand-brake u-turn during an inverted barrel roll.
+Мы бы не разбились, если бы Сэл не разворачивался на ручнике во время того, как подлодка крутанула "бочку".

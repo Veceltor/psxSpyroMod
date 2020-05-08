@@ -1,0 +1,38 @@
+97196
+1128
+7
+Snappy the Seal
+Тюлень Снэппи
+Hi, Sheila! The rhynocs have built a fortress on our beach and we're going to blow it to smithereens! We just need you to take out all the turrets for us. We're lighting the bomb now, just make sure to stomp all those turrets before the fuse runs out, OK?
+Привет, Шила! Носороги нагло заняли наш пляж, но мы им сейчас покажем, где раки зимуют! Нам бы пригодилась помощь - нужно разбить все пушки возле крепости. Мы сейчас зажжем фитили бомб, постарайся разбить те пушки до того, как фитили прогорят, ладно?
+Wow! I can't believe I survived that blast! It's a good thing I kept this egg nice and safe in my pocket.
+Ого! Даже не верится, что я выжил! Хорошо что это яйцо защитил мой карман.
+Ready to try stomping the turrets again? &Try again? &Yes &No
+Попробуешь разбить пушки снова? &Заново? &Да &Нет
+Yippee! I'll light the fuse on the next bomb! &[Stomp all turrets before bomb explodes.
+Урря! Я зажигаю следующую бомбу! &[Разбей все пушки до взрыва.
+No problem. We'll be playing hot potato with this bomb until you come back.
+Без проблем, мы поиграем бомбой в горячую картошку, пока тебя нет.
+Owww... That really smarts... No problem though, we've got more bombs!!!
+Ауу... Вот это долбануло... Не беда, у нас полно бомб!!!
+98348
+464
+2
+Sandy the Seal
+Тюлень Сэнди
+Our beach is your beach.
+Наш пляж - твой пляж.
+98812
+472
+2
+Slappy the Seal
+Тюлень Слэппи
+Stay and get a tan, if you like.
+Оставайся загорать...
+99284
+288
+2
+Sheila
+Шила
+Oh, hi, Spyro! Some of my seal friends are trying to take down a rhynoc fortress! I'm about to go and lend a foot... I love the smell of singed rhynoc in the morning!
+О, привет, Спайро! Мои земноводные друзья планируют штурм крепости! Я пожалуй помогу им... Люблю запах жареных носорогов поутру!

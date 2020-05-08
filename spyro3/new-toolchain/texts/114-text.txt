@@ -1,0 +1,41 @@
+91376
+212
+2
+Zoe
+Зоя
+You can also move quickly by charging, like Spyro. To charge, hold down the > button. Use your charge to chase down this fast enemy.
+Ты можешь двигаться быстрее, зажав кнопку >. Попробуй догнать так того быстрого врага.
+91588
+644
+3
+Zoe
+Зоя
+Now for the hard part. Being a maneuverable dragonfly, you can also slide in any direction. To slide, hold down the @4L1@0 or @4R1@0 button, then move with the analog stick or directional button. Try sliding up and down to hit the targets in this room.
+А теперь перейдём к сложной части. Ты - проворная стрекоза, значит можешь лететь в любую сторону. Просто зажми @4Л1@0 или @4Р1@0, потом двигайся с помощью стрелок или джойстика. Попробуй лететь вверх и вниз, чтобы поразить все цели в этой комнате.
+Are you paying attention Sparx? I told you to use slide to target those crawdads. If you don't learn how to use all your skills you'll never survive the challenges that lie ahead, and Spyro would never forgive me for that. Use the @4L1@0 or @4R1@0 button, then move with the analog stick or directional button.
+Ты меня слушаешь, Спаркс? Лети в другом направлении, чтобы поразить этих раков. Если ты не научишься всем навыкам, ты не выживешь здесь и Спайро мне этого не простит! Зажми @4Л1@0 или @4Р1@0, двигайся с помощью стрелок или джойстика.
+92232
+616
+3
+Zoe
+Зоя
+On your travels you'll notice butterflies that give you health, just like in the Dragon Worlds. Not only that but some butterflies will give you special powers, though only for a short time. Just eat any powerup butterfly and then press the < button to use that powerup. Your powerup is shown in the top right of the screen.
+Здесь ты можешь найти бабочек, которые помогут восстановить твое здоровье, прямо как в Драконьих Мирах. Но ещё некоторые здешние бабочки дадут тебе особые силы, хоть и на время. Съешь любую усиливающую бабочку и нажми <, чтобы воспользоваться новой силой.
+You'll be able to deal with these guys much faster if you use the powerup. Just eat any powerup butterfly and then press the < button to use that powerup. Your powerup is shown in the top right of the screen.
+Ты разберешься со врагами куда быстрее, если воспользуешься усилителем. Съешь любую усиливающую бабочку и нажми <, чтобы воспользоваться новой силой. Тип силы показан в верхнем правом углу экрана.
+92848
+184
+2
+Zoe
+Зоя
+Looks like you're ready Sparx. If you need any more help, just choose the HELP option from the Pause Menu.
+Похоже, ты готов. Нужна будет еще помощь - открой меню паузы и выбери пункт Помощь.
+93032
+372
+3
+Zoe
+Зоя
+Hello Sparx, maybe before you take on the nasty crawdads I should give you some help. To start let's practice shooting. Press the { button to shoot these targets.
+Привет Спаркс, прежде чем ты пойдешь биться с раками, я немного тебя потренирую. Сначала давай попробуем пострелять. Нажми {, чтобы стрельнуть в эти мишени.
+That looked like it hurt, maybe you should have tried to shoot them like I told you. Just press the { button to shoot the targets.
+Наверное, больно. Может попробуешь сделать так, как я говорила? Просто нажми {, чтобы стрельнуть в эти мишени.

@@ -1,0 +1,424 @@
+Dizzy
+Диззи
+Jason
+Ясон
+Mollie
+Молли
+Jackie
+Джеки
+Duke
+Дюк
+Jared
+Джа
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+center camera:
+L1,R1
+Л1,Р1
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+dive:
+нырок:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+blow bubbles:
+пузыри:
+{
+{
+swim:
+плыть:
+<
+<
+swim charge:
+удар:
+>
+>
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+dive:
+нырок:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+blow bubbles:
+пузыри:
+{
+{
+swim:
+плыть:
+<
+<
+swim charge:
+удар:
+>
+>
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+jump:
+прыжок:
+<
+<
+air hop:
+подскок:
+jump + <
+прыжок + <
+double-jump:
+двойной прыжок:
+jump, land + <
+упасть + <
+kick:
+удар:
+{ or >
+{ или >
+stomp:
+давить:
+jump + }
+прыжок + }
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+dive:
+нырок:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+blow bubbles:
+пузыри:
+{
+{
+swim:
+плыть:
+<
+<
+swim charge:
+удар:
+>
+>
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+turbo boost:
+ускоритель:
+> or <
+> или <
+shoot:
+пушка:
+{
+{
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+dive:
+нырок:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+blow bubbles:
+пузыри:
+{
+{
+swim:
+плыть:
+<
+<
+swim charge:
+удар:
+>
+>
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1

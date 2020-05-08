@@ -1,0 +1,272 @@
+Sgt. Byrd
+Срж. Бурд
+Pete the Mountain Goat
+Горный козёл Пит
+Bobby the Mountain Goat
+Горный козёл Бобби
+Super Bonus Round
+СУПЕР БОНУС РАУНД
+Bugbot Factory
+ЗАВОД ЖУКОВ
+Sorceress's Lair
+БИТВА С КОЛДУНЬЕЙ
+Agent 9's Lab
+ЛАБА АГЕНТА 9
+Harbor Speedway
+ПОЛЕТ В ГАВАНИ
+Dino Mines
+ШАХТЫ ЗАВР
+Haunted Tomb
+ДРЕВНИЙ СКЛЕП
+Desert Ruins
+РУИНЫ В ПЕСКАХ
+Crystal Islands
+ОСТРОВА КРИСТАЛ
+Midnight Mountain Home
+МИР ПОДЛУННОЙ ГОРЫ
+Starfish Reef
+РИФ СТАРФИШ
+Scorch's Pit
+ЯМА СКОРЧА
+Bentley's Outpost
+ЗАСТАВА БЕНТЛИ
+Honey Speedway
+МЕДОВЫЙ ПОЛЕТ
+Charmed Ridge
+МОСТ УДАЧИ
+Fireworks Factory
+ФАВРИКА ФЕЙЕРВЕРКОВ
+Lost Fleet
+ФЛОТ ЧЕВОТ
+Frozen Altars
+ЛЕДЯНЫЕ АЛТАРИ
+Evening Lake Home
+МИР УТРЕННЕГО ОЗЕРА
+Spider Town
+ПАУЧЬЯ НОРА
+Spike's Arena
+АРЕНА СПАЙКА
+Sgt. Byrd's Base
+БАЗА БУРДА
+Country Speedway
+ПОЛЕТ В ДЕРЕВНЕ
+Bamboo Terrace
+ТЕРРАСА БАМБУК
+Spooky Swamp
+ЖУТКОЕ БОЛОТО
+Enchanted Towers
+ЗАЧАРОВАННЫЕ БАШНИ
+Icy Peak
+ПИК ЛЬДА
+Midday Garden Home
+МИР СОЛНЕЧНОГО САДА
+Crawdad Farm
+ФЕРМА РАКОВ
+Buzz's Dungeon
+ПЕЩЕРА БАЗЗА
+Sheila's Alp
+ГОРЫ ШИЛЫ
+Mushroom Speedway
+ГРИБНОЙ ПОЛЕТ
+Seashell Shore
+МОРСКОЙ ПЛЯЖ
+Molten Crater
+ГОРЯЧИЙ КРАТЕР
+Cloud Spires
+ОБЛАЧНЫЕ ШПИЛИ
+Sunny Villa
+ВИЛЛА КУУР
+Sunrise Spring Home
+МИР ЛУЧИСТОГО РУЧЬЯ
+Level Complete
+Все собрано!
+Skill Point!
+Скиллпоинт!
+GAVE UP!
+СДАЛСЯ!
+CRASHED!
+УПАЛ!
+TIME'S UP!
+НЕ УСПЕЛ!
+COMPLETE!
+ЗАВЕРШИЛ!
+OFF COURSE!
+УЛЕТЕЛ!
+FINISHED!
+ФИНИШ!
+YOU WON!
+ПОБЕДА!
+Try Again?
+Ещt раз?
+Press < to Continue
+Нажми <
+Your Time
+Твое время
+Best Time
+Рекорд
+New Best Time!
+Новый рекорд!
+No Best Time
+Нет рекорда
+Your Score
+Твой счет
+Course Record
+Рекорд трассы
+New Course Record!
+Новый рекорд!
+No Course Record
+Нет рекорда
+Your Total:
+Всего:
+Difficulty:
+Сложность:
+You already have this egg
+Уже есть такое яйцо
+Treasure Found
+Найдено камней
+Total Treasure
+Всего сокровищ
+Returning To 
+Возвращение в 
+Entering 
+Вход в 
+DEMO MODE
+ДЕМО РЕЖИМ
+Midnight Mountain
+ПОДЛУННАЯ ГОРА
+Sorceress' Lair
+ЛОГОВО КОЛДУНЬИ
+Evening Lake
+УТРЕННЕЕ ОЗЕРО
+Midday Gardens
+СОЛНЕЧНЫЙ САД
+Sunrise Spring
+ЛУЧИСТЫЙ РУЧЕЙ
+Stay Here
+Остаться
+WHERE TO?
+Куда?
+Quit Game?
+Выйти?
+Speakers
+Колонки
+Music Volume
+Музыка
+Sound Volume
+Звуки
+Vertical
+Вертикаль
+Horizontal
+Горизонталь
+Vibration
+Вибрация
+Quit Race
+Выйти
+Quit Game
+Выйти
+Exit Area
+Уйти
+Exit Level
+Уйти
+Save Game
+Сохранить
+Continue
+Продолжить
+THE ADVENTURE BEGINS
+ПРИКЛЮЧЕНИЕ НАЧИНАЕТСЯ
+Exiting Demo Mode
+Выход из демо...
+Entering Demo Mode
+Вход в демо-режим
+One Less Noble Warrior
+Одним воином меньше
+Billy In The Wall
+Билли в стене
+A Familiar Face
+Знакомые лица
+Deja Vu?
+Дэжавю?
+The Dancing Bear
+Танцующий медведь
+A Duplicitous, Larcenous Ursine
+Омерзительная медвежатина
+Byrd, James Byrd
+Бурд, Джеймс Бурд
+No Hard Feelings
+Без обид
+The Escape!
+Побег!
+An Apology, And Lunch
+Извинения плюс обед
+Hunter's Tussle
+Терзания Хантера
+The Second Warning
+Последнее китайское
+A Monster To End All Monsters
+Монстр на зависть всем монстрам
+Spike Is Born
+Спайк воплощён
+Bianca Strikes Back
+Снова Бианка
+A Desperate Rescue Begins...
+Отчаянные спасатели...
+A Powerful Villain Emerges...
+Знакомство со злыдней...
+An Evil Plot Unfolds...
+Коварный план...
+Our Hero Takes A Rest...
+Наш Герой Отдыхает...
+THE ADVENTURE CONTINUES
+ПРОДОЛЖАЕМ ПРИКЛЮЧЕНИЕ
+Spyro
+Спайро
+Sheila
+Шила
+Bentley
+Бентли
+Agent 9
+Агент 9
+Empty
+Пусто
+Yes
+Да
+No
+Нет
+Back
+Назад
+General
+Игра
+Mono
+Моно
+Stereo
+Стерео
+Active
+Актив
+Passive
+Пассив
+On
+Да
+Off
+Нет
+Voice
+Голос
+Done
+Все
+Camera
+Камера
+Give Up
+Сдаться
+Sound
+Звук
+Help
+Помощь
+Options
+Опции
+Atlas
+Атлас
+PAUSED
+ПАУЗА
+%d
+%d
+THE END
+КОНЕЦ

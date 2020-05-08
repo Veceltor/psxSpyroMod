@@ -1,0 +1,106 @@
+Dave
+Дейв
+Mingus
+Мингус
+Trixie
+Трикси
+Matt
+Мэтт
+Modesty
+Модести
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+dive:
+нырок:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+blow bubbles:
+пузыри:
+{
+{
+swim:
+плыть:
+<
+<
+swim charge:
+удар:
+>
+>
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1

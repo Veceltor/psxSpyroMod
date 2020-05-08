@@ -1,0 +1,82 @@
+Sabina
+Сабина
+John
+Джон
+Tater
+Татер
+flame:
+огонь:
+{
+{
+fly left:
+налево:
+left
+лево
+fly right:
+направо:
+right
+право
+fly up:
+вверх:
+down
+низ
+fly down:
+вниз:
+up
+ап
+supercharge:
+супербег:
+>
+>
+flame:
+огонь:
+{
+{
+fly left:
+налево:
+left
+лево
+fly right:
+направо:
+right
+право
+fly up:
+вверх:
+down
+низ
+fly down:
+вниз:
+up
+ап
+supercharge:
+супербег:
+>
+>
+spit rocket:
+ракета:
+{
+{
+fire:
+огонь:
+{
+{
+fly left:
+налево:
+left
+лево
+fly right:
+направо:
+right
+право
+fly up:
+вверх:
+down
+низ
+fly down:
+вниз:
+up
+ап
+turbo:
+турбо:
+> or <
+> или <

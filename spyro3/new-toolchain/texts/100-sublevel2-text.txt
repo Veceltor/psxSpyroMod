@@ -1,0 +1,44 @@
+22704
+184
+2
+я
+[SKIP]
+Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+Внимание, дракон: хочешь увидеть своего плешивого дружка ещё раз, катись отсюда!\  -Колдунья
+30196
+2100
+17
+Hunter
+Хантер
+Hi Spyro. I found this gladiator training arena and it makes a pretty cool skate park! Care for a test of your boarding skills? &Start boarding challenge now? &Yes. &No.
+Здарова. Я вот нашёл гладиаторскую арену и знаешь, из нее получился клевый скейтпарк! Хочешь обкатать? &Начать испытание? &Да. &Нет.
+Are you ready for a challenge now? &Start boarding challenge now? &Yes. &No.
+Ну что, теперь готов погонять? &Начать испытание? &Да. &Нет.
+I bet you can't catch all fifteen of the lizards running around here... Just come back if you want some boarding tips from the master. &[Catch the lizards.
+Зуб даю, ты не поймаешь всех ящериц... Если захочешь пару советов от мастера, спрашивай. Не стесняйся. &[Поймай всех ящериц.
+Yeah, maybe you'd better practice a bit first... Just come back here when you're up for a challenge.
+Да уж, лучше б тебе попрактиковаться сначала... Вернись, как будешь готов к серьёзному испытанию.
+Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.
+Не получается? Если нажмешь <, чтобы подпрыгивать на рампах, то пролетишь выше и дальше.  
+Caught all the lizards yet? If you're having trouble catching them, don't be afraid to use your flame breath while on the skateboard.
+Ну как, всех поймал? Если сложно просто так их сбивать, бей огнём прямо со скейта.
+Hey that was great! And while you were boarding, I found this in a lizard burrow.
+Вот это круть! Я тоже без дела не сидел - разворошил их норы.
+Now that you've mastered the basics, let's see you do some stunts! Try using the < or } button to jump off ramps and turn in the air...
+Так, теперь ты освоился, давай посмотрим, сможешь ли делать трюки! Попробуй < или }, чтобы спрыгиать с рамп и крутиться в воздухе.
+This is the most fun I've had since we chased King Flippy on the manta ray.
+Да-а, так мы не веселились с тех пор, как гонялись за Флиппи на скате.
+Alright, if you can catch all the lizards without wiping out and before time runs out, I  might be able to scrounge up another egg. It's not gonna be easy, though... &Start difficult boarding challenge now? &Yes. &No.
+Если ты сможешь поймать всех ящериц, не свалившись со скейта и до того как выйдет время, может, я смогу откопать ещё яйцо. Это будет непросто... &Начать сложное испытание? &Да. &Нет.
+If you want to try to catch those lizards, I'll start the clock now. &Start difficult boarding challenge now? &Yes. &No.
+Если хочешь попытаться их отловить, я стартую таймер. &Начать сложное испытание? &Да. &Нет.
+Go get 'em, Spyro!
+Вперёд, Спайро!
+Well whenever you're ready, come and talk to me.
+Ну, как созреешь, приходи обратно.
+Awww, too bad... maybe you'll do better this time. &Try difficult boarding challenge again? &Yes. &No.
+Н-да, так не пойдёт... попробуй ещё, вдруг получится. &Начать сложное испытание снова? &Да. &Нет.
+Whoa, that was sweet! And look, there was another egg in the lizard burrow.
+Ого, это было отпадно! И смотри-ка, в тех норах было ещё одно яйцо.
+You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!
+Если хочешь, можешь попробовать поставить рекорд. Когда ты запрыгнешь на доску, пойдёт отсчёт. Набери столько очков, сколько сможешь пока не выйдет время или пока не свалишься. Удачи!

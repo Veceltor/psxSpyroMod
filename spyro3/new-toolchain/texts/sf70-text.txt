@@ -1,0 +1,22 @@
+Saving
+Запись
+Do not remove MEMORY CARD
+Не вынимай КАРТУ ПАМЯТИ
+Saved successfully
+Игра сохранена
+Auto save unavailable
+Авто-сохранение выкл.
+No save game selected
+Не выбрано сохранение
+MEMORY CARD has been removed
+КАРТА ПАМЯТИ вытащена
+MEMORY CARD has changed
+КАРТУ ПАМЯТИ поменяли
+SAVE ERROR
+ОШИБКА
+Save data may be damaged
+Запись может быть неверна
+GAME OVER
+Конец игры
+Press Start
+ЖМИ СТАРТ!

@@ -1,0 +1,236 @@
+Sanders
+Сандерс
+Lucy
+Люси
+Emily
+Эмили
+Daisy
+Дэйзи
+Vanessa
+Ванесса
+Miles
+Майлс
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+dive:
+нырок:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+jump:
+прыжок:
+<
+<
+air hop:
+подскок:
+jump + <
+прыжок + <
+double-jump:
+двойной прыжок:
+jump, land + <
+упасть + <
+kick:
+удар:
+{ or >
+{ или >
+stomp:
+давить:
+jump + }
+прыжок + }
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+ramp jump:
+прыжок:
+< on orange ramp
+< на красной рампе
+spin:
+спин:
+< on blue ramp
+< на синей
+stunts:
+трюки:
+ramp jump + } + dir.
+прыжок с рампы + }
+Gnasty Gnorc
+Гнасти Гнорк
+Half-pipe Leap
+Полутруба
+Triple Towers
+Три Башни
+Quint Front Flip
+5х переворот
+Quint Roll Left
+5х кувырок
+Big Gulp
+Галп+
+Quint Back Flip
+4х переворот
+Quint Roll Right
+4х кувырок
+Orange Crush
+Оранжевый Краш
+Single Front Flip
+Переворот
+Double Front Flip
+2х переворот
+Triple Front Flip
+3х переворот
+Quad Front Flip
+4х переворот
+Single Roll Left
+Кувырок
+Double Roll Left
+2х кувырок
+Triple Roll Left
+3х кувырок
+Dr. Shemp
+Шемп
+Single Spin Left
+Кручение
+Double Spin Left
+2х кручение
+Triple Spin Left
+3х кручение
+Gulp
+Галп
+Single Back Flip
+Переворот
+Double Back Flip
+2х переворот
+Triple Back Flip
+3х переворот
+Quad Back Flip
+4х переворот
+Single Roll Right
+Кувырок
+Double Roll Right
+2х кувырок
+Triple Roll Right
+3х кувырок
+Toasty Twist
+Тости круть
+Single Spin Right
+Кручение
+Double Spin Right
+2х кручение
+Triple Spin Right
+3х кручение
+Crush
+Краш
+Twisted Lemon
+Выжатый лимон
+Twisted Lemon x 2
+Выжатый лимон х2
+Twisted Lemon x 3
+Выжатый лимон х3
+Thrash Master
+Трэш мастер
+Twisted Lime
+Выжатый лайм
+Double Twisted Lime
+Выжатый лайм х2
+Triple Twisted Lime
+Выжатый лайм х3
+Super Thrash Master
+Супер трэш мастер
+Raging Ripto
+Ярость Рипто

@@ -1,0 +1,13 @@
+15592
+884
+5
+Cumulus
+Кумулус
+Our sun has gone out. We can make a new one with our lava fusion cauldron and three sun seeds, but they keep burning out before we can get them in the pot.
+Наше солнце потухло. Мы можем сварить новое в лаво-синтезном котле из трёх солнечных семян, но они потухают быстрее, чем мы можем донести их до котла.
+Step on the switch to get a fresh sun seed and keep flaming it until you get it into the pot.
+Наступи на кнопку, чтобы появилось новое семечко, и жги его пока оно не окажется в котле.
+Now that's what I call a sun! Here, you can have this last sun seed as a souvenir. I think it might be a dud, though.
+Вот это солнце так солнце! Возьми последнее семечко как сувенир. Какое-то оно странное, впрочем...
+If you can't keep up with the sun seed, remember you can always hold down the > button to charge. &[Press and hold > button to charge forward quickly.
+Если не можешь поспеть за семечком, беги за ним с помощью кнопки >. &[Нажми и держи >, чтобы бежать за семечком. 

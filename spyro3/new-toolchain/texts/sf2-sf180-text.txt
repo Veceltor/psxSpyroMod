@@ -1,0 +1,102 @@
+PRESS START
+ЖМИ СТАРТ!
+New Game
+Новая игра
+Save Game
+Сохранить
+Cancel
+Отмена
+SLOT 1
+СЛОТ 1
+SLOT 2
+СЛОТ 2
+MEMORY CARD slot 2
+КАРТА ПАМЯТИ 2
+MEMORY CARD slot 1
+КАРТА ПАМЯТИ 1
+Press } to recheck
+} - назад
+Load Game
+Загрузить
+Select an icon
+Выбери значок
+EMPTY
+ПУСТО
+Confirm
+Вперёд
+Please wait...
+Подожди...
+MEMORY CARDS
+КАРТ ПАМЯТИ
+Accessing
+Чтение
+Start a new game anyway?
+Начать игру всё равно?
+is not inserted.
+не вставлена.
+MEMORY CARD
+КАРТУ
+save your game.
+сохранить игру.
+You will not be able to
+Ты не сможешь
+Please select a
+Выбери
+to create one?
+Cоздать новое?
+save block. Do you want
+сохранений.
+not contain a Spyro 3
+не содержит предыдущих
+This MEMORY CARD does
+Эта КАРТА ПАМЯТИ
+MEMORY CARD.
+КАРТУ ПАМЯТИ.
+Do not remove
+Не вынимай
+Creating save block.
+Запись сохранения.
+format it?
+карту?
+Do you want to
+Отформатировать
+is not formatted.
+не форматирована.
+This MEMORY CARD
+Эта КАРТА ПАМЯТИ
+Formatting MEMORY CARD.
+Форматирование.
+Saving.
+Запись.
+overwrite it?
+перезаписать?
+Do you wish to
+Стоит ли
+is already in use.
+уже используется.
+This save game
+Этот слот
+Loading.
+Загрузка.
+may be corrupt.
+повреждена.
+The data on this
+Данные на этой
+An error has occurred.
+Ошибка.
+requires 1 free block.
+бы 1 свободный блок.
+is full. This game
+полная. Нужен хотя
+save your game?
+сохранить игру?
+Would you like to
+Хочешь 
+save to the same game?
+сохранить туда же?
+try again?
+заново?
+try saving again.
+попробуй снова.
+To correct the error,
+Чтобы исправить ошибку,

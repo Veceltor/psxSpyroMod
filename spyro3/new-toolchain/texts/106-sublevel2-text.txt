@@ -1,0 +1,15 @@
+19196
+840
+6
+Smelt the Seal
+Тюлень Смелт
+Bluto the rhynoc has challenged us to a naval battle. Our speed boat versus his nuclear shark submarine. If we win, we get the dragon egg he's guarding. If we lose, we have to spend a month in K.P.
+Носорог Блуто вызвал нас на битву - наш скоростной катер против его ядерной подлодки-акулы. Если победим, получим драконье яйцо. Если проиграем - месяц в кухонном рабстве.
+Whaddya say, do you want to take on Bluto? &Fight the nuclear shark sub? &Yeehah! &You gotta be kidding.
+Ну что, заборем Блуто? &Сразиться с ядерной акулой? &Вперед! &Не-а.
+OK, good luck! Just remember, stay away from the sharp end! &[Press the < button to speed up. &[Press the { Button to fire a missile. &[Pick up crates to get more missiles.
+Окей, удачи! Только в зубы ему не попадись. &[Нажми <, чтобы ускориться. &[Нажми {, чтобы пульнуть ракетой. &[Подбирай ящики с ракетами.
+I don't blame you. I already owe seven years of kitchen duty, and I'm not about to risk getting another month!
+Я понимаю, сам уже лет эдак семь рабства проиграл, и еще больше мне как-то не хочется.
+Wow! That's the first time Bluto has ever lost! You've got a lot of talent for someone so purple... I hope this egg was worth all the trouble.
+Ого! Впервые Блуто побит! А у тебя, смотрю, талант... Надеюсь, это яйцо стоило усилий.

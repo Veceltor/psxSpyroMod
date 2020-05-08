@@ -1,0 +1,104 @@
+Curlie
+Керли
+Ryan
+Рон
+Moira
+Мойра
+Kermitt
+Кермит
+Luna
+Луна
+Rikki
+Рикки
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
+flap:
+взмах:
+<
+<
+fire:
+огонь:
+{
+{
+target mode:
+прицел:
+}
+}
+drop object:
+бросить:
+>
+>
+pick-up:
+поднять:
+land on object
+подлет к вещи
+flame:
+огонь:
+{
+{
+jump:
+прыжок:
+<
+<
+charge:
+таран:
+>
+>
+glide:
+полет:
+< + <
+< + <
+hover:
+тормоз:
+glide + }
+полет + }
+headbash:
+удар:
+jump + }
+прыжок + }
+look around:
+осмотреться:
+}
+}
+rotate camera:
+поворот камеры:
+L2,R2
+Л2,Р2
+center camera:
+центр камеры:
+L1,R1
+Л1,Р1
